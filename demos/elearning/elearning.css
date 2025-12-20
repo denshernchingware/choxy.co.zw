@@ -6,10 +6,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&display=swap');
 /* variable */
 :root {     
-    --base-color: #d5d52b; 
+    --base-color: #FFE703; 
     --dark-gray: #313e3b;
     --medium-gray: #828c8a;
-    --yellow: #d5d52c;
+    --yellow: #FFE703;
     --extra-medium-gray: #e4e4e4;
     --alt-font: 'Space Grotesk', sans-serif;
     --primary-font: 'Inter', sans-serif;
