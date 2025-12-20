@@ -19603,3 +19603,28 @@ footer .footer-navbar .nav-item:last-child a {
 .footer-demo img {
   max-height: 55px !important;
 }
+/* additional css */
+.badge-overlay {
+            position: absolute;
+            bottom: -20px; /* Adjusted to overlap more like the original */
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #fd7e14; /* Orange */
+            color: white;
+            padding: 15px 30px;
+            border-radius: 15px;
+            font-size: 1.5rem;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            min-width: 150px;
+            text-align: center;
+        }
+        .img-container {
+            position: relative;
+            border-radius: 20px;
+            overflow: visible; /* Allow badge to overflow */
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .img-container img {
+            border-radius: 20px;
+        }
