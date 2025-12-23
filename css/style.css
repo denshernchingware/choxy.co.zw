@@ -111,6 +111,7 @@ section {
 section.half-section {
   padding-top: 70px;
   padding-bottom: 70px;
+  margin-top:-4rem;
 }
 section.big-section {
   padding-top: 130px;
@@ -20054,7 +20055,9 @@ footer .footer-navbar .nav-item:last-child a {
         }
 
         .extracurricular-section {
-            padding: 100px 0;
+            padding-top:3rem;
+            padding-bottom:0;
+            margin-bottom:0;
         }
         .section-header {
             display: flex;
