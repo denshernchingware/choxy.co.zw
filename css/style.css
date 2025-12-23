@@ -19916,7 +19916,7 @@ footer .footer-navbar .nav-item:last-child a {
         .timeline-item {
             padding-left: 100px;
             position: relative;
-            margin-bottom: 60px;
+            margin-bottom: 20px;
         }
         .timeline-item:last-child {
             margin-bottom: 0;
@@ -19947,6 +19947,7 @@ footer .footer-navbar .nav-item:last-child a {
             color: #003366;
             font-weight: bold;
             margin-bottom: 10px;
+            font-size:25px;
         }
         .timeline-desc {
             color: #6c757d;
@@ -20068,7 +20069,7 @@ footer .footer-navbar .nav-item:last-child a {
         .section-subtitle {
             color: #FFB400;
             text-transform: uppercase;
-            font-size: 0.9rem;
+            font-size: 17px;
             font-weight: bold;
             letter-spacing: 1px;
             margin-bottom: 5px;
