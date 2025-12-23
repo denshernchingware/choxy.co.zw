@@ -19741,6 +19741,7 @@ footer .footer-navbar .nav-item:last-child a {
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease;
             height: 100%;
+        
         }
         .value-card:hover {
             transform: translateY(-10px);
@@ -19755,11 +19756,11 @@ footer .footer-navbar .nav-item:last-child a {
             font-weight: bold;
             margin-bottom: 15px;
         }
-        /* .cta-section {
+        .cta-section-two {
             background-color: #e9ecef;
             padding: 80px 0;
             text-align: center;
-        } */
+        }
         .cta-title {
             color: #003366;
             font-weight: bold;
