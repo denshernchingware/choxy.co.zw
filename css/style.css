@@ -20097,6 +20097,10 @@ footer .footer-navbar .nav-item:last-child a {
             color: #003366;
             font-weight: bold;
             margin-bottom: 15px;
+            font-size:17px;
+        }
+        .text-cl{
+          color:#ffe703;
         }
         .activity-desc {
             color: #6c757d;
