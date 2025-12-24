@@ -19856,7 +19856,7 @@ footer .footer-navbar .nav-item:last-child a {
             margin-bottom: 20px;
         }
         .section-subtitle {
-            color: #6c757d;
+            color: var(--base-color);
             margin-bottom: 60px;
         }
         .req-card {
