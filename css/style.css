@@ -20132,3 +20132,8 @@ footer .footer-navbar .nav-item:last-child a {
         .alt-font-one{
           font-size:20px;
         }
+        @media (max-width:425px){
+          .wel-nt{
+            font-size:10px !important;
+          }
+        }
