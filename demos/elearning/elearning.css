@@ -81,7 +81,7 @@ a:hover {
     font-size: 18px;
 }
 header .navbar-brand img {
-    max-height: 39px;
+    max-height: 100px;
 }
 header .navbar-brand {
     padding: 25px 0;
